@@ -1,0 +1,23 @@
+{
+  "name": "ejemplo1",
+  "version": "1.0.0",
+  "description": "Primer TP node",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "EJ01": "node EJ01.js",
+    "EJ02": "node EJ02.js",
+    "EJ03": "node EJ03.js",
+    "EJ04": "node EJ04.js",
+    "EJ05": "node EJ05.js",
+    "EJ06": "node EJ06.js",
+    "EJ07": "node EJ07.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shirly Jusid y Maia Raiter",
+  "license": "ISC",
+  "dependencies": {
+    "country-currency-map": "^2.1.7"
+  }
+}
